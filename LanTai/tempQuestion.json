@@ -1,0 +1,42 @@
+{
+    "status":"1",
+    "customer":{
+        
+    }
+    "package_cards":[
+                     {
+                     "cpard_relation_id" : "100332",
+                     "ended_at" :"2014-02-08 23:59:59",
+                     "has_p_card" :"1",
+                     "id" :"100170",
+                     "is_expired" : "0",
+                     "name" : "2222",
+                     "products" :[
+                                  {
+                                  "id" :"104269",
+                                  "leftNum" : "0",
+                                  "useNum":"2",
+                                  "name" : "深刻变化",
+                                  "selected" : "1",
+                                  "mat_num":"100"
+                                  },
+                                  {
+                                  "id" :"104270",
+                                  "leftNum" : "1",
+                                  "name" : "空手道",
+                                  "useNum" : "0",
+                                  "selected" : "1",
+                                  "mat_num":"0"
+                                  },
+                                  {
+                                  "id" :"104271",
+                                  "leftNum" : "2",
+                                  "name" : "决定",
+                                  "useNum" : "0",
+                                  "selected" : "1",
+                                  "mat_num":"0"
+                                  }
+                                  ]
+                     }
+                     ]
+}
